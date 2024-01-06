@@ -37,6 +37,6 @@ Criar as suas classes de acordo com o diagrama abaixo:
 
 ![Imgur](https://i.imgur.com/5qhJnXa.png)
 
-## Tecnologias utilizadas  🚗
+## Tecnologias utilizadas  📱
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) <img height="28" src="https://i.imgur.com/RJt65d2.png"> ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
