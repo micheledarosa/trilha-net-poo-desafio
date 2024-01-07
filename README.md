@@ -1,4 +1,4 @@
-# DIO - Trilha .NET - Poo
+# DIO - Trilha .NET - Orientação a Objetos (POO)
 
 Meu segundo projeto para o desafio da trilha .NET do Decola Tech Avanade - 2024.
 
