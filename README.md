@@ -1,4 +1,4 @@
-# DIO - Trilha .NET - Fundamentos
+# DIO - Trilha .NET - Poo
 
 Meu segundo projeto para o desafio da trilha .NET do Decola Tech Avanade - 2024.
 
